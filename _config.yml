@@ -21,18 +21,18 @@ repository               : "UpasanaDutta98/UpasanaDutta98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cover-photo.jpg"
+  avatar           : "Photo_Webpage_V2.jpeg"
   name             : "Upasana Dutta"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at Wharton, Department of Statistics and Data Science"
+  bio              : "PhD Student in Computer and Information Science"
   location         : "Philadelphia, PA"
   employer         : "University of Pennsylvania"
   uri              : # URL
-  email            : "abch@upenn.wharton.edu" 
+  email            : "upasanad@seas.upenn.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=xTkeZUMAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=SHF9r6IAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
