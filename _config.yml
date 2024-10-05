@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Abhinav's Homepage"
+title                    : "Upasana's Homepage"
 title_separator          : "-"
-name                     : &name "Abhinav Chakraborty"
+name                     : &name "Upasana Dutta"
 description              : &description "personal description"
-url                      : https://abhinavc3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://UpasanaDutta98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "UpasanaDutta98/UpasanaDutta98.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "cover-photo.jpg"
-  name             : "Abhinav Chakraborty"
+  name             : "Upasana Dutta"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Wharton, Department of Statistics and Data Science"
   location         : "Philadelphia, PA"
