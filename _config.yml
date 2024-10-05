@@ -21,7 +21,7 @@ repository               : "UpasanaDutta98/UpasanaDutta98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Photo_Webpage_V2.jpeg"
+  avatar           : "Photo.png"
   name             : "Upasana Dutta"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Computer and Information Science"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "UpasanaDutta98"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "upasanadutta121998"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
