@@ -7,18 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student in the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/), [Wharton School](https://www.wharton.upenn.edu/) of [University of Pennsylvania](https://www.upenn.edu/), advised by [T. Tony Cai](http://www-stat.wharton.upenn.edu/~tcai/). My research broadly focuses on high-dimensional and non-parametric statistics, with a specific interest in distributed statistical estimation under privacy constraints and distribution shift. I also closely collaborate with [Eugene Katsevich](https://ekatsevi.github.io/) on high-dimensional variable selection and conditional independence testing.
+I am a third-year PhD student in the [Department of Computer and Information Science](https://www.cis.upenn.edu/), at the [University of Pennsylvania](https://www.upenn.edu/), working in the [Penn Media Accountability Project group](https://css.seas.upenn.edu/project/penn-map/) of the [CSS Lab](https://css.seas.upenn.edu/). I am very fortunate to be advised by [Duncan Watts](https://www.asc.upenn.edu/people/faculty/duncan-j-watts-phd) and [Aaron Clauset](https://aaronclauset.github.io/) (remotely).
 
-Prior to my PhD, I completed both my Bachelor's and Master's degrees at the [Indian Statistical Institute](https://www.isical.ac.in/).
+My research involves developing computational models to understand what governs human behavior in social systems, such as news production and consumption behavior from traditional media outlets such as TV as well as social media. More broadly, I am interested in applying computational methods on digital platforms to study user engagement, political polarization, online extremism, misinformation, biases related to gender, race, and ideology, as well as its broader impact on society. To answer these questions, I use toold from machine learning, social network analysis, natural language processing, and causal inference.
 
-### Research Interests
+Prior to joining Penn, I graduated with a Master's in [Computer Science](https://www.colorado.edu/cs/) at the [University of Colorado Boulder](https://www.colorado.edu/), where I was advised by [Aaron Clauset](https://aaronclauset.github.io/) and [Dan Larremore](https://larremorelab.github.io/dan/). 
+
+
+<!-- ### Research Interests
 - Nonparametric Estimation and Inference
 - Differential Privacy
 - Transfer Learning
 - Minimax theory
 - High-dimensional Variable Selection
 - Conditional Independence Testing
-- Double/Debiased Machine Learning
+- Double/Debiased Machine Learning -->
  
 <!---
 
