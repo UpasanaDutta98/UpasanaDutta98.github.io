@@ -14,11 +14,12 @@ My research involves developing computational models to understand what governs 
 Prior to joining Penn, I earned a Master's in [Computer Science](https://www.colorado.edu/cs/) from the [University of Colorado Boulder](https://www.colorado.edu/), where I was advised by [Aaron Clauset](https://aaronclauset.github.io/) and [Dan Larremore](https://larremorelab.github.io/dan/), and collaborated closely with [Bailey K. Fosdick](https://www.baileyfosdick.com/). As a part of my Master's thesis, I developed a method for sampling networks from the degree-preserving configuration model using a Markov chain sampler. Concurrently, I also deveoped interests in analyzing human behavior in real-world social systems, and worked on analyzing how interactions with Russia's Internet Research Agency influenced Twitter users' behavior during the 2016 U.S. presidential election.
 
 
-News
-======
+### News
 
-[08/2024]: Presented my work on measuring partisanship in TV news at [KDD 2024](https://kdd2024.kdd.org/).
+08/2024: Presented my work on TV news partisanship at [KDD 2024](https://kdd2024.kdd.org/).
 
-[08/2024]: Presenred my MS thesis work at [Bernoulli-IMS 2024](https://www.bernoulli-ims-worldcongress2024.org/).
+08/2024: Presented my MS thesis work at [Bernoulli-IMS 2024](https://www.bernoulli-ims-worldcongress2024.org/).
 
-[05/2024]: Finished my second year of PhD at Penn!
+08/2024: Presented my work on measuring partisanship in TV news at [IC2S2 2024](https://ic2s2-2024.org/).
+
+05/2024: Finished my second year of PhD at Penn! 
