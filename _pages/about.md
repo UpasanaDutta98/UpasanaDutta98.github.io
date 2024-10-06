@@ -17,7 +17,7 @@ Prior to joining Penn, I earned a Master's in [Computer Science](https://www.col
 News
 ======
 
-[May 2024]: I finished my second year of PhD at Penn!
+[05/2024]: I finished my second year of PhD at Penn!
 
 
 <!-- [2024-07-08] I served as a teaching assistant at the [2024 Summer Institute in Computational Social Science](https://sicss.io/2024/penn), University of Pennsylvania.
