@@ -7,11 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in the [Department of Computer and Information Science](https://www.cis.upenn.edu/), at the [University of Pennsylvania](https://www.upenn.edu/), working in the [Penn Media Accountability Project group](https://css.seas.upenn.edu/project/penn-map/) of the [CSS Lab](https://css.seas.upenn.edu/). I am very fortunate to be advised by [Duncan Watts](https://www.asc.upenn.edu/people/faculty/duncan-j-watts-phd) and [Aaron Clauset](https://aaronclauset.github.io/) (remotely).
+I am a third-year PhD student in the [Department of Computer and Information Science](https://www.cis.upenn.edu/), at the [University of Pennsylvania](https://www.upenn.edu/), working in the [Penn Media Accountability Project group](https://css.seas.upenn.edu/project/penn-map/) of the [CSS Lab](https://css.seas.upenn.edu/). I am very fortunate to be advised by [Duncan Watts](https://www.asc.upenn.edu/people/faculty/duncan-j-watts-phd) and [Aaron Clauset](https://aaronclauset.github.io/).
 
-My research involves developing computational models to understand what governs human behavior in social systems, such as news production and consumption behavior from traditional media outlets such as TV as well as social media. More broadly, I am interested in applying computational methods on digital platforms to study user engagement, political polarization, online extremism, misinformation, biases related to gender, race, and ideology, as well as its broader impact on society. To answer these questions, I use toold from machine learning, social network analysis, natural language processing, and causal inference.
+My research involves developing computational models to understand what governs human behavior in social systems, such as news production and consumption across traditional media (e.g., TV) and social media platforms. More broadly, I am interested in applying computational methods on digital platforms to study user engagement, political polarization, online extremism, misinformation, biases related to gender, race, and ideology, as well as its broader impact on society.To tackle these questions, I use tools from machine learning, social network analysis, natural language processing, and causal inference.
 
-Prior to joining Penn, I graduated with a Master's in [Computer Science](https://www.colorado.edu/cs/) at the [University of Colorado Boulder](https://www.colorado.edu/), where I was advised by [Aaron Clauset](https://aaronclauset.github.io/) and [Dan Larremore](https://larremorelab.github.io/dan/). 
+Prior to joining Penn, I earned a Master's in [Computer Science](https://www.colorado.edu/cs/) from the [University of Colorado Boulder](https://www.colorado.edu/), where I was advised by [Aaron Clauset](https://aaronclauset.github.io/) and [Dan Larremore](https://larremorelab.github.io/dan/). 
+
+
+News
+======
+
+[May 2024]: I finished my second year of PhD at Penn!
+
+
+<!-- [2024-07-08] I served as a teaching assistant at the [2024 Summer Institute in Computational Social Science](https://sicss.io/2024/penn), University of Pennsylvania.
+
+[2024-04-05] I presented a talk titled "How Aligned are Humans and Language Models on Common Sense?" at the [Generative AI and Social Science Research Workshop](https://dissc.yale.edu/events/generative-ai-and-social-science-research) at Yale University.
+
+[2024-02-16] I delivered a talk titled "Science Meets AI: Lessons from the Exploration of LLMs in Astronomical Research" at the [Planet+AI consortium](https://planet-ai-2023.github.io). The video recording is on [YouTube](https://youtu.be/znTDgN2iqNw).
+
+[2024-01-29] I will start working at the [Mathematics and Computer Science Division](https://www.anl.gov/mcs), [Argonne National Laboratory](https://www.anl.gov) as a visiting student. Excited to be working with [Aurora](https://www.anl.gov/aurora), Argonne's flagship exascale supercomputer. -->
+
 
 
 <!-- ### Research Interests
