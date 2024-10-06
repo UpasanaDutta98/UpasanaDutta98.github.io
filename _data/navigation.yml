@@ -11,8 +11,8 @@ main:
   #- title: "Guide"
   #  url: /markdown/
   
-  - title: "Research"
-    url: /publications/
+  # - title: "Research" 
+  #   url: /publications/
 
   # - title: "Talks"
   #  url: /talks/    
@@ -21,8 +21,8 @@ main:
   ########Need to add Talk section and Awards Section.
   ###################################################
 
-  - title: "Teaching"
-    url: /teaching-assistant/   
+  # - title: "Teaching"
+  #   url: /teaching-assistant/   
     
   #- title: "Portfolio"
   #  url: /portfolio/

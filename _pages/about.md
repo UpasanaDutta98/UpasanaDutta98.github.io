@@ -20,6 +20,6 @@ Prior to joining Penn, I earned a Master's in [Computer Science](https://www.col
 
 08/2024: Presented my MS thesis work at [Bernoulli-IMS 2024](https://www.bernoulli-ims-worldcongress2024.org/).
 
-08/2024: Presented my work on measuring partisanship in TV news at [IC2S2 2024](https://ic2s2-2024.org/).
+07/2024: Presented my work on measuring partisanship in TV news at [IC2S2 2024](https://ic2s2-2024.org/).
 
 05/2024: Finished my second year of PhD at Penn! 
