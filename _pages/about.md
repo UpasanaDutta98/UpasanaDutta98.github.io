@@ -17,7 +17,11 @@ Prior to joining Penn, I earned a Master's in [Computer Science](https://www.col
 News
 ======
 
-[05/2024]: I finished my second year of PhD at Penn!
+[08/2024]: Presented my work on measuring partisanship in TV news at [KDD 2024](https://kdd2024.kdd.org/).
+
+[08/2024]: Presenred my MS thesis work at [Bernoulli-IMS 2024](https://www.bernoulli-ims-worldcongress2024.org/).
+
+[05/2024]: Finished my second year of PhD at Penn!
 
 
 <!-- [2024-07-08] I served as a teaching assistant at the [2024 Summer Institute in Computational Social Science](https://sicss.io/2024/penn), University of Pennsylvania.
