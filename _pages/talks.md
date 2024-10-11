@@ -25,3 +25,11 @@ July 2021: A Joint Sunbelt and NetSci Conference (Networks 2021) [[Abstract]](ht
 
 
 May 2021: International Conference on Complex Networks (CompleNet 2021) [[Abstract]](https://o365coloradoedu-my.sharepoint.com/personal/updu6059_colorado_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fupdu6059%5Fcolorado%5Fedu%2FDocuments%2FG%2FPhD%5FApplicationDocuments%2FCompleNet2021%5FAbstract%2Epdf&parent=%2Fpersonal%2Fupdu6059%5Fcolorado%5Fedu%2FDocuments%2FG%2FPhD%5FApplicationDocuments&ga=1) [[Slides]](https://o365coloradoedu-my.sharepoint.com/personal/updu6059_colorado_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fupdu6059%5Fcolorado%5Fedu%2FDocuments%2FG%2FPhD%5FApplicationDocuments%2FCompleNet2021%5FSlides%2Epdf&parent=%2Fpersonal%2Fupdu6059%5Fcolorado%5Fedu%2FDocuments%2FG%2FPhD%5FApplicationDocuments&ga=1) [[Talk]](https://o365coloradoedu-my.sharepoint.com/personal/updu6059_colorado_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fupdu6059%5Fcolorado%5Fedu%2FDocuments%2FG%2FPhD%5FApplicationDocuments%2FCompleNet2021%5FMay24th2021%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7cc8b675%2Df15b%2D42a3%2Da07b%2D85aed865b7ab)
+
+
+
+Mar' 2021: CU STEMinar Series Spring 2021, University of Colorado Boulder [[Slides]](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/updu6059_colorado_edu/EbbiVReREFpPn0KhnAbEuJcByz8sNSKk1lYtnMldbcyS-w?e=6tLfwy)
+
+
+
+Dec' 2020: Democracy and Technology Workshop Series, University of Colorado Boulder [[Slides]](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/updu6059_colorado_edu/ETYFjRDqERZCplOTP6LawfgBqFM5Qtr9BueGpzhnb6pGNA?e=ETi4I5)
