@@ -15,7 +15,7 @@ Prior to joining Penn, I earned a Master's in [Computer Science](https://www.col
 
 ## News
 
-10/2024: Our paper on sampling random graphs with fixed degree sequences got accepted at the Journal of Computational and Graphical Statistics [Preprint](https://arxiv.org/abs/2105.12120).
+10/2024: Our paper on sampling random graphs with fixed degree sequences got accepted at the Journal of Computational and Graphical Statistics [[Preprint]](https://arxiv.org/abs/2105.12120).
 
 08/2024: Presented my work on TV news partisanship at the PhD Consortium of [KDD 2024](https://kdd2024.kdd.org/).
 
