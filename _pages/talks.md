@@ -1,15 +1,18 @@
 ---
 layout: archive
-title: "Talks"
+title: "Talks/Professional Activities"
 permalink: /talks/
 author_profile: false
 ---
-
 
 Aug’ 2024: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024) [[Slides]](https://drive.google.com/file/d/1cgoHLXMvDoeya0FLA2SwJMIYZ6a-Haa3/view)
 
 
 Aug’ 2024: Bernoulli-IMS 11th World Congress in Probability and Statistics 2024 [[Slides]](https://drive.google.com/file/d/1yhj-RaP4OiDm5MFBcAkrCsW_BsrrU7ni/view)
+
+
+Aug’ 2024: Networks Tutorial at the Summer Institute of Computational Social Science 2024 [[Code]](https://colab.research.google.com/drive/1jU9xg103Ad6g7s0um3aC6vevdcLe4Um5?usp=sharing) [[Slides]](https://drive.google.com/file/d/1HbGaj-1kVpgN9xVnBMxB4WwkYOtqfyaz/view?usp=sharing)
+
 
 
 July 2024: International Conference on Computational Social Science (IC2S2 2024) [[Slides]](https://drive.google.com/file/d/1q1wNcYSlFQzPuvH_q0Yd8mAJhk695UH7/view)
