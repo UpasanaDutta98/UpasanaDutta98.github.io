@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks/Professional Activities"
+title: "Talks"
 permalink: /talks/
 author_profile: false
 ---
