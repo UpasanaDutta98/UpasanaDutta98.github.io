@@ -9,8 +9,8 @@ main:
   - title: "Research" 
     url: /publications/
 
-  # - title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+   url: /talks/    
 
   ###################################################
   ########Need to add Talk section and Awards Section.
