@@ -4,7 +4,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: false
 ---
-
+Nov’ 2024: GAPSA Research Grant, University of Pennsylvania
 
 Apr’ 2022: Abel Lukens Stout Fellowship, Department of Computer and Information Science, University of Pennsylvania
 
