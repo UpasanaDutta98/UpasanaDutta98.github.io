@@ -16,10 +16,19 @@ This past summer I interned at [Meta](https://www.meta.com/metaverse/) as a Mach
 Prior to joining Penn, I earned a Master's in [Computer Science](https://www.colorado.edu/cs/) from the [University of Colorado Boulder](https://www.colorado.edu/), where I was advised by [Aaron Clauset](https://aaronclauset.github.io/) and [Dan Larremore](https://larremorelab.github.io/dan/), and collaborated closely with [Bailey K. Fosdick](https://www.baileyfosdick.com/). As a part of my Master's thesis, I developed a [method for sampling graphs](https://arxiv.org/pdf/2105.12120) from the degree-preserving configuration model using a Markov chain sampler. Concurrently, I also deveoped interests in analyzing human behavior in real-world social systems, and worked on analyzing how [Twitter users' behavior changed](https://dl.acm.org/doi/pdf/10.1145/3449164) after interactions with Russia's Internet Research Agency during the 2016 U.S. presidential election.
 
 ## News
+05/2026: I will be interning at Microsoft as a Applied Scientist Intern with the Copilot Notebooks Team in Redmond, WA.
+
+03/2026: Gave a lightening talk at the Penn Center on Media, Technology, and Democracy's Research Seminar on my work on using LLM simulations to understand effects of selective exposure to online news.
+
+03/2026: New [preprint](https://arxiv.org/pdf/2603.20973) on Scaling laws in empirical networks.
+
+02/2026: Our paper "Framing the Fringe: Dynamics of Ingroup and Outgroup Narratives in Fringe Telegram Channels" has been accepted at the Web Science Conference 2026.
+
+05/2024: Finished my third year of PhD at Penn! 
 
 05/2025: I will be interning at Meta as a Machine Learning SWE Intern with the Profile Relevance Team (Facebook) in Menlo Park, CA.
 
-11/2024: I received the GAPSA Research Grant! 
+11/2024: I received the Penn Graduate and Professional Student Assembly Research Grant! 
 
 10/2024: Our paper on sampling random graphs with fixed degree sequences got accepted at the Journal of Computational and Graphical Statistics [[Preprint]](https://arxiv.org/abs/2105.12120).
 
