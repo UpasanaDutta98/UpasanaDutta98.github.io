@@ -20,7 +20,8 @@ Prior to joining Penn, I earned a Master's in [Computer Science](https://www.col
 
 06/2026: Gave a talk at the PhD Symposium of The Web Conference 2026 about my work on using LLM simulations to understand effects of selective exposure to online news.
 
-05/2026: Our paper "Framing the Fringe: Dynamics of Ingroup and Outgroup Narratives in Fringe Telegram Channels" is published at the Web Science Conference 2026. <span style="color:#c0392b">[Best Paper Award]</span>
+05/2026: Our paper "Framing the Fringe: Dynamics of Ingroup and Outgroup Narratives in Fringe Telegram Channels" is published at the Web Science Conference 2026.<br>
+<span style="color:#c0392b">[Best Paper Award]</span>
 
 05/2026: I will be interning at Microsoft as a Applied Scientist Intern with the Copilot Notebooks Team in Redmond, WA.
 
