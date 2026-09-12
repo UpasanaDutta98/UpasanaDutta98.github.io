@@ -28,8 +28,6 @@ Prior to joining Penn, I earned a Master's in [Computer Science](https://www.col
 
 03/2026: New [preprint](https://arxiv.org/pdf/2603.20973) on Scaling laws in empirical networks.
 
-05/2025: Finished my third year of PhD at Penn! 
-
 05/2025: I will be interning at Meta as a Machine Learning SWE Intern with the Profile Relevance Team (Facebook) in Menlo Park, CA.
 
 11/2024: I received the Penn Graduate and Professional Student Assembly Research Grant! 
@@ -41,5 +39,3 @@ Prior to joining Penn, I earned a Master's in [Computer Science](https://www.col
 08/2024: Presented my work on sampling graphs from the Configuration model at [Bernoulli-IMS 2024](https://www.bernoulli-ims-worldcongress2024.org/).
 
 07/2024: Presented my work on measuring partisanship in TV news at [IC2S2 2024](https://ic2s2-2024.org/).
-
-05/2024: Finished my second year of PhD at Penn! 
