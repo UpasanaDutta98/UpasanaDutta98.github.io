@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: false
 ---
 
+For the most up-to-date list of my papers, please see my [Google Scholar profile](https://scholar.google.com/citations?user=YLJLAKoAAAAJ&hl=en).
+
 ## Publications
 
 **Sampling random graphs with specified degree sequences** [[Preprint]](https://arxiv.org/abs/2105.12120) [[Python Package]](https://upasanadutta98.github.io/ConfigModel_MCMC/) [[Code]](https://github.com/UpasanaDutta98/ConfigModel_MCMC)
